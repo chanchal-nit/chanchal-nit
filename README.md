@@ -12,4 +12,3 @@ I am deeply passionate about merging **Supply Chain Operations** with **Data Ana
 ### 🚀 Projects:
 *Projects coming soon as I build my portfolio!*
 
-📫 **How to reach me:** [Your LinkedIn URL will go here later]

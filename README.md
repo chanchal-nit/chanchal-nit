@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi there! I'm Chanchal 👋
 
-<!--
-**chanchal-nit/chanchal-nit** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a 2nd-year Production and Industrial Engineering student at **NIT Jamshedpur**. 
+I am deeply passionate about merging **Supply Chain Operations** with **Data Analytics & Machine Learning**, specifically for the fashion and premium retail industry. 
 
-Here are some ideas to get you started:
+### 🛠️ What I'm learning right now:
+- **Languages:** Python, SQL
+- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
+- **Core Focus:** Exploratory Data Analysis (EDA), Statistical Testing, Demand Forecasting
+- **Domain:** Supply Chain Management, Operations
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Projects:
+*Projects coming soon as I build my portfolio!*
+
+📫 **How to reach me:** [Your LinkedIn URL will go here later]

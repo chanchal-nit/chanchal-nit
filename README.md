@@ -14,4 +14,5 @@ I am deeply passionate about merging **Supply Chain Operations** with **Data Ana
 - 🏠 Boston Housing EDA — Outlier detection & correlation analysis on housing data
 - 🌍 World Bank Internet Analysis — Global internet adoption trends across 90+ countries 
   with gender digital divide analysis
+- 💎 Diamonds Statistics — Normal distribution, hypothesis testing & t-tests on diamond pricing data
 

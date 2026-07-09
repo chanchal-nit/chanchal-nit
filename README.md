@@ -10,7 +10,6 @@ I am deeply passionate about merging **Supply Chain Operations** with **Data Ana
 - **Domain:** Supply Chain Management, Operations
 
 ### 🚀 Projects:
-🚀 Projects:
 - 🚢 Titanic EDA — Survival pattern analysis using Python, Pandas & Seaborn
 - 🏠 Boston Housing EDA — Outlier detection & correlation analysis on housing data
 - 🌍 World Bank Internet Analysis — Global internet adoption trends across 90+ countries 

@@ -3,11 +3,15 @@
 I am a 2nd-year Production and Industrial Engineering student at **NIT Jamshedpur**. 
 I am deeply passionate about merging **Supply Chain Operations** with **Data Analytics & Machine Learning**, specifically for the fashion and premium retail industry. 
 
-### 🛠️ What I'm learning right now:
+## 🛠️ What I'm Working With
+
 - **Languages:** Python, SQL
-- **Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn
-- **Core Focus:** Exploratory Data Analysis (EDA), Statistical Testing, Demand Forecasting
-- **Domain:** Supply Chain Management, Operations
+- **ML Libraries:** Pandas, NumPy, Seaborn, Matplotlib, Scikit-Learn, XGBoost, CatBoost
+- **Web Framework:** Flask (deployed on Render)
+- **BI Tools:** Tableau, Advanced Excel
+- **Core Skills:** Exploratory Data Analysis (EDA), Machine Learning, Statistical Testing, Demand Forecasting, Customer Segmentation, Predictive Maintenance
+- **Domain:** Supply Chain Management, Fashion & Retail Analytics, Operations, IE
+- **Currently Learning:** SQL (Advanced), Power BI, Flask Deployment
 
 ## 🚀 Projects
 
